@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Which is a color?",
+    "answers": [
+      "Red","Bottle","Apple","Box"
+    ]
+  },
+  {
+    "question": "Which is a number?",
+    "answers": [
+      "One","Cat","Dog","Camel"
+    ]
+  },
+  {
+    "question": "Which is a metal?",
+    "answers": [
+      "Gold","Plastic","Rubber","Napkin"
+    ]
+  },
+  {
+    "question": "Which is a solid?",
+    "answers": [
+      "Rock","Water","Juice","Milk"
+    ]
+  }
+]
